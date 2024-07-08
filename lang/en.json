@@ -1,0 +1,45 @@
+{
+    "profile":"Profile",
+    "hospitalRecords":"Hospital Rec",
+    "prescription":"Prescriptions",
+    "Appointments":"Appointments",
+    "Appointment":"Appointment",
+    "logout":"Logout",
+    "callsent":"If you are in the Hospital , you can call",
+    "call":"Call",
+    "historic":"Historic", 
+    "ListDoctor":"Doctors List",
+    "search":"Search",
+    "Arabe":"Arabic",
+    "english":"Engrish",
+    "French":"French",
+    
+    "name":"Name",
+    "Registrationnumber":"Registration Number",
+    "PhoneNumber":"Phone Number",
+   
+    "update":"Modifie",
+    
+    "Home":"Home Page",
+    "Statist":"Your statistics by day",
+    "email":"Email",
+    "Password":"Password",
+    "Birthday":"Birthday",
+   "language":"Languages",
+   "prescriptionOne":"Prescriptions",
+   "listPatient":"Patients List",
+   "Pesient":"Patients",
+   "yPatient":"Your Patient",
+   "Cpassword":"Password Confirm",
+    "Opassword":"Ancien mot de passe",
+    "Npassword":"Nouveau mot de passe",
+    "welcome":"Welcome",
+    "login":"Login",
+    "logou":"Are you sure you want to logout?",
+    "register":"Register",
+    "cancel":"Cancel",
+    "clickhere": "Insert your data here ->",
+    "whatucando":"What you can do"
+
+    
+}

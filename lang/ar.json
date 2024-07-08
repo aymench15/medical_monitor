@@ -1,0 +1,46 @@
+{
+    "profile":"الملف الشخصي",
+    "hospitalRecords":"سجلاتي في المستشفى",
+    "prescription":"وصفاتي الطبية",
+    "Appointments":"مواعيد الطبية",
+    "Appointment":"موعد طبي",
+    "logout":"تسجيل الخروج",
+    "callsent":"اذا كنت في المستشفى, يمكنك الاتصال",
+    "call":"اتصل",
+    "historic":"تاريخي", 
+    "ListDoctor":"قائمة الأطباء",
+    "search":"البحث",
+    "Arabe":"العربية",
+    "english":"الإنجليزية",
+    "French":"الفرنسية",
+    
+    "name":"الاسم",
+    
+    "Birthday":"تاريخ ميلاد",
+    "Registrationnumber":"رقم تسجيل",
+    "PhoneNumber":"رقم الهاتف",
+   
+    "update":"تعديل",
+    
+    "Home":"الصفحة الرئيسية",
+    "Statist":"احصائياتك في اليوم",
+    "email":"ايميل",
+    "Password":"كلمة المرور",
+   "language":"اللغات",
+   "prescriptionOne":"وصفة طبية",
+   "listPatient":"قائمة المرضى",
+   "Pesient":"المرضى",
+   "yPatient":"مرضاك",
+   "Cpassword":" تأكيد كلمة المرور",
+    "Opassword":"كلمة مرور قديمة",
+    "Npassword":"كلمة مرور جديدة",
+    "welcome":"مرحبا",
+    "login":"تسجيل الدخول",
+    "logou":"هل أنت متأكد أنك تريد الخروج ؟",
+    "register":"سجل",
+    "cancel":"الغاء",
+    "clickhere": " ادخل المعلومات هنا ->",
+    "whatucando":"ما تستطيع فعله"
+   
+    
+}

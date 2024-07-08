@@ -1,0 +1,45 @@
+{
+    "profile":"Profile",
+    "hospitalRecords":"Dossiers hosp",
+    "prescription":"Ordonnances",
+    "Appointments":"Rendez-vous",
+    "Appointment":"Rendez-vous",
+    "logout":"Déconnexion",
+    "callsent":"Si vous êtes à l’hôpital, vous pouvez appeler",
+    "call":"Appeler",
+    "historic":"Historique", 
+    "ListDoctor":"Les doctors",
+    "search":"Recherche",
+    "Arabe":"Arabe",
+    "english":"Anglais",
+    "French":"Français",
+    
+    "name":"Nom",
+    
+    "Birthday":"Anniversaire",
+    "Registrationnumber":"Numéro d'inscription",
+    "PhoneNumber":"Numéro de téléphone",
+   
+    "update":"Modifier",
+    
+    "Home":"Page d'accueil",
+    "Statist":"Vos statistiques par jour",
+    "email":"Email",
+    "Password":"Password",
+    "Cpassword":"Mot de passe Confirmer",
+    "Opassword":"Old Password",
+    "Npassword":"New Password",
+   "language":"Langues",
+   "prescriptionOne":"Ordonnance",
+   "listPatient":"Liste de patients",
+   "Pesient":"Patients",
+   "yPatient":"Vos patients",
+   "welcome":"Accueillir",
+    "login":"Connexion",
+    "logou":"Tu es sûr de vouloir te déconnecter ?",
+    "register":"Registre",
+    "cancel":"Annuler",
+    "clickhere": "Inserer votre données ici ->",
+    "whatucando": "Qu'est ce que tu peux faire"
+    
+}
